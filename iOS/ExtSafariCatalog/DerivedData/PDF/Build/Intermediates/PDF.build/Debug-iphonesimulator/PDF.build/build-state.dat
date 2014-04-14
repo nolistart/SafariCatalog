@@ -1,0 +1,368 @@
+TPDF
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/Info.plist /Users/b04354/Downloads/PDF-1/PDF-Info.plist
+cCpResource sample.pdf DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/sample.pdf
+cCompileXIB /Users/b04354/Downloads/PDF-1/MainWindow.xib
+cCompileXIB /Users/b04354/Downloads/PDF-1/PDFViewController.xib
+cProcessPCH /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PrecompiledHeaders/PDF_Prefix-fumagnxfgoigdwgxihyzebwnadks/PDF_Prefix.pch.pch PDF_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/main.o /Users/b04354/Downloads/PDF-1/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFAppDelegate.o /Users/b04354/Downloads/PDF-1/Classes/PDFAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFViewController.o /Users/b04354/Downloads/PDF-1/Classes/PDFViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFView.o /Users/b04354/Downloads/PDF-1/Classes/PDFView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/PDF normal i386
+cGenerateDSYMFile /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app.dSYM /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/PDF
+cTouch /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app
+
+N/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531E69F800000000000003B4
+t1394502136
+s948
+
+N/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531E6A03000000000000019E
+t1394502147
+s414
+
+N/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000531E6A050000000000446820
+t1394502149
+s4483104
+
+N/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531E6A06000000000088D8C0
+t1394502150
+s8968384
+
+N/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531E6A0B0000000001F1DE10
+t1394502155
+s32628240
+
+N/Users/b04354/Downloads/PDF-1/Classes/PDFAppDelegate.m
+c000000004D94F7FB0000000000000A9B
+t1301608443
+s2715
+
+N/Users/b04354/Downloads/PDF-1/Classes/PDFView.m
+c000000004D95055A000000000000051C
+t1301611866
+s1308
+
+N/Users/b04354/Downloads/PDF-1/Classes/PDFViewController.m
+c000000004D9504980000000000001749
+t1301611672
+s5961
+
+N/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDF.LinkFileList
+c00000000534B96320000000000000236
+t1397462578
+s566
+
+N/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFAppDelegate.o
+t1397462578
+s64460
+
+N/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFView.o
+t1397462578
+s40556
+
+N/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFViewController.o
+t1397462578
+s51896
+
+N/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/main.o
+t1397462578
+s3740
+
+N/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PrecompiledHeaders/PDF_Prefix-fumagnxfgoigdwgxihyzebwnadks/PDF_Prefix.pch.pch
+t1397462578
+s5369100
+
+N/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app
+t1397462579
+s272
+
+N/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app.dSYM
+t2
+s0
+
+N/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/Info.plist
+t1397462578
+s590
+
+N/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/MainWindow.nib
+t1397462578
+s1207
+
+N/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/PDF
+t1397462579
+s29060
+
+N/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/PDFViewController.nib
+t1397462578
+s2028
+
+N/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/PkgInfo
+t1397462578
+s8
+
+N/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/sample.pdf
+t1397462578
+s240439
+
+N/Users/b04354/Downloads/PDF-1/MainWindow.xib
+c000000004D94F7FB0000000000004DF9
+t1301608443
+s19961
+
+N/Users/b04354/Downloads/PDF-1/PDF-Info.plist
+c000000004D94FA4500000000000003B4
+t1301609029
+s948
+
+N/Users/b04354/Downloads/PDF-1/PDFViewController.xib
+c000000004D9500AF0000000000006CA6
+t1301610671
+s27814
+
+N/Users/b04354/Downloads/PDF-1/PDF_Prefix.pch
+c000000004D94F7FB00000000000000AF
+t1301608443
+s175
+
+N/Users/b04354/Downloads/PDF-1/main.m
+c000000004D94F7FB000000000000016A
+t1301608443
+s362
+
+N/Users/b04354/Downloads/PDF-1/sample.pdf
+c000000004D94F789000000000003AB37
+t1301608329
+s240439
+
+CBuild AST from /Users/b04354/Downloads/PDF-1/Classes/PDFAppDelegate.m
+r0
+
+CBuild AST from /Users/b04354/Downloads/PDF-1/Classes/PDFView.m
+r0
+
+CBuild AST from /Users/b04354/Downloads/PDF-1/Classes/PDFViewController.m
+r0
+
+CBuild AST from /Users/b04354/Downloads/PDF-1/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf2e93db2cdfbb841^ecf843b2cdfbb841^---0#1#1#--18"Check dependencies36"8F260BD7-14E7-40B1-8073-BF53C9E7E12A-
+
+CCompileC DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFAppDelegate.o /Users/b04354/Downloads/PDF-1/Classes/PDFAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419155378.861994
+e419155378.912787
+r1
+xCompileC
+xDerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFAppDelegate.o
+x/Users/b04354/Downloads/PDF-1/Classes/PDFAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/b04354/Downloads/PDF-1/Classes/PDFAppDelegate.m
+d/Users/b04354/Downloads/PDF-1/Classes/PDFAppDelegate.h
+d/Users/b04354/Downloads/PDF-1/Classes/PDFViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/b04354/Downloads/PDF-1/Classes/PDFAppDelegate.m216"CompileC DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFAppDelegate.o Classes/PDFAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler03ccdcb2cdfbb841^75ade9b2cdfbb841^---0#0#1#-19%DVTDocumentLocation2@70"file://localhost/Users/b04354/Downloads/PDF-1/Classes/PDFAppDelegate.m0000000000000000^3479"CompileC DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFAppDelegate.o Classes/PDFAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/b04354/Downloads/PDF-1    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.1.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-generated-files.hmap -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-own-target-headers.hmap -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-all-target-headers.hmap -iquote /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-project-headers.hmap -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode5.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/DerivedSources/i386 -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/DerivedSources -F/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator -include /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PrecompiledHeaders/PDF_Prefix-fumagnxfgoigdwgxihyzebwnadks/PDF_Prefix.pch -MMD -MT dependencies -MF /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFAppDelegate.d --serialize-diagnostics /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFAppDelegate.dia -c /Users/b04354/Downloads/PDF-1/Classes/PDFAppDelegate.m -o /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFAppDelegate.o36"5FD6FBA6-ED74-4B01-B144-C9DD4C77B61A-
+bA890CEFF-A839-4591-9467-923869EC7E44
+
+CCompileC DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFView.o /Users/b04354/Downloads/PDF-1/Classes/PDFView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419155378.862032
+e419155378.909117
+r1
+xCompileC
+xDerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFView.o
+x/Users/b04354/Downloads/PDF-1/Classes/PDFView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/b04354/Downloads/PDF-1/Classes/PDFView.m
+d/Users/b04354/Downloads/PDF-1/Classes/PDFView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/b04354/Downloads/PDF-1/Classes/PDFView.m202"CompileC DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFView.o Classes/PDFView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8ecbdcb2cdfbb841^5abce8b2cdfbb841^---0#0#1#-19%DVTDocumentLocation2@63"file://localhost/Users/b04354/Downloads/PDF-1/Classes/PDFView.m0000000000000000^3437"CompileC DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFView.o Classes/PDFView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/b04354/Downloads/PDF-1    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.1.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-generated-files.hmap -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-own-target-headers.hmap -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-all-target-headers.hmap -iquote /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-project-headers.hmap -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode5.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/DerivedSources/i386 -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/DerivedSources -F/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator -include /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PrecompiledHeaders/PDF_Prefix-fumagnxfgoigdwgxihyzebwnadks/PDF_Prefix.pch -MMD -MT dependencies -MF /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFView.d --serialize-diagnostics /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFView.dia -c /Users/b04354/Downloads/PDF-1/Classes/PDFView.m -o /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFView.o36"4924A458-EC02-479B-A7DA-211D203348EE-
+bA890CEFF-A839-4591-9467-923869EC7E44
+
+CCompileC DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFViewController.o /Users/b04354/Downloads/PDF-1/Classes/PDFViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419155378.862016
+e419155378.912798
+r1
+xCompileC
+xDerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFViewController.o
+x/Users/b04354/Downloads/PDF-1/Classes/PDFViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/b04354/Downloads/PDF-1/Classes/PDFViewController.m
+d/Users/b04354/Downloads/PDF-1/Classes/PDFViewController.h
+d/Users/b04354/Downloads/PDF-1/Classes/PDFView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/b04354/Downloads/PDF-1/Classes/PDFViewController.m222"CompileC DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFViewController.o Classes/PDFViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8accdcb2cdfbb841^eeb0e9b2cdfbb841^---0#0#1#-19%DVTDocumentLocation2@73"file://localhost/Users/b04354/Downloads/PDF-1/Classes/PDFViewController.m0000000000000000^3497"CompileC DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFViewController.o Classes/PDFViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/b04354/Downloads/PDF-1    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.1.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-generated-files.hmap -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-own-target-headers.hmap -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-all-target-headers.hmap -iquote /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-project-headers.hmap -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode5.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/DerivedSources/i386 -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/DerivedSources -F/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator -include /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PrecompiledHeaders/PDF_Prefix-fumagnxfgoigdwgxihyzebwnadks/PDF_Prefix.pch -MMD -MT dependencies -MF /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFViewController.d --serialize-diagnostics /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFViewController.dia -c /Users/b04354/Downloads/PDF-1/Classes/PDFViewController.m -o /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFViewController.o36"F467A9F0-1349-4053-9A3E-52A3CB73BAE9-
+bA890CEFF-A839-4591-9467-923869EC7E44
+
+CCompileC DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/main.o /Users/b04354/Downloads/PDF-1/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419155378.861954
+e419155378.892971
+r1
+xCompileC
+xDerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/main.o
+x/Users/b04354/Downloads/PDF-1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/b04354/Downloads/PDF-1/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/b04354/Downloads/PDF-1/main.m188"CompileC DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler21c9dcb2cdfbb841^aa9ae4b2cdfbb841^---0#0#1#-19%DVTDocumentLocation2@52"file://localhost/Users/b04354/Downloads/PDF-1/main.m0000000000000000^3403"CompileC DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/b04354/Downloads/PDF-1    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.1.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-generated-files.hmap -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-own-target-headers.hmap -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-all-target-headers.hmap -iquote /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-project-headers.hmap -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode5.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/DerivedSources/i386 -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/DerivedSources -F/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator -include /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PrecompiledHeaders/PDF_Prefix-fumagnxfgoigdwgxihyzebwnadks/PDF_Prefix.pch -MMD -MT dependencies -MF /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/main.dia -c /Users/b04354/Downloads/PDF-1/main.m -o /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/main.o36"32A5B86D-D797-43C9-9616-868C4D07B6A9-
+bA890CEFF-A839-4591-9467-923869EC7E44
+
+CCompileXIB /Users/b04354/Downloads/PDF-1/MainWindow.xib
+s419155378.278732
+e419155378.304398
+r1
+xCompileXIB
+x/Users/b04354/Downloads/PDF-1/MainWindow.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compiling /Users/b04354/Downloads/PDF-1/MainWindow.xib25"CompileXIB MainWindow.xib236947b2cdfbb841^e1ed4db2cdfbb841^---0#0#1#-19%DVTDocumentLocation2@60"file://localhost/Users/b04354/Downloads/PDF-1/MainWindow.xib0000000000000000^726"CompileXIB MainWindow.xib    cd /Users/b04354/Downloads/PDF-1    export PATH="/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.1.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode5.1.app/Contents/Developer/usr/bin/..    /Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/MainWindow.nib /Users/b04354/Downloads/PDF-1/MainWindow.xib36"F45B2FC8-8534-447C-AD57-36D69BAD4367-
+bA890CEFF-A839-4591-9467-923869EC7E44
+
+CCompileXIB /Users/b04354/Downloads/PDF-1/PDFViewController.xib
+s419155378.278733
+e419155378.312656
+r1
+xCompileXIB
+x/Users/b04354/Downloads/PDF-1/PDFViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compiling /Users/b04354/Downloads/PDF-1/PDFViewController.xib32"CompileXIB PDFViewController.xib6e6b47b2cdfbb841^fd1350b2cdfbb841^---0#0#1#-19%DVTDocumentLocation2@67"file://localhost/Users/b04354/Downloads/PDF-1/PDFViewController.xib0000000000000000^747"CompileXIB PDFViewController.xib    cd /Users/b04354/Downloads/PDF-1    export PATH="/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.1.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode5.1.app/Contents/Developer/usr/bin/..    /Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/PDFViewController.nib /Users/b04354/Downloads/PDF-1/PDFViewController.xib36"A3B1F1E6-54E1-4DA7-A160-8B74687DFF4B-
+bA890CEFF-A839-4591-9467-923869EC7E44
+
+CCpResource sample.pdf DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/sample.pdf
+s419155378.278730
+e419155378.282383
+r1
+xCpResource
+xsample.pdf
+xDerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/sample.pdf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/sample.pdf93"CpResource sample.pdf DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/sample.pdf9d6847b2cdfbb841^3c4b48b2cdfbb841^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/sample.pdf0038fcbfdeffdf42^576"CpResource sample.pdf DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/sample.pdf    cd /Users/b04354/Downloads/PDF-1    export PATH="/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.1.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/b04354/Downloads/PDF-1/sample.pdf /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app36"DA9FF4BB-AEA6-4580-BA14-1D7FAA3C12AE-
+bA890CEFF-A839-4591-9467-923869EC7E44
+
+CGenerateDSYMFile /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app.dSYM /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/PDF
+s419155379.272319
+e419155379.314323
+r1
+xGenerateDSYMFile
+x/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app.dSYM
+x/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/PDF
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Generate /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app.dSYM147"GenerateDSYMFile DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app.dSYM DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/PDF26c745b3cdfbb841^217850b3cdfbb841^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app.dSYM0038fcbfdeffdf42^683"GenerateDSYMFile DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app.dSYM DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/PDF    cd /Users/b04354/Downloads/PDF-1    export PATH="/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.1.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/PDF -o /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app.dSYM36"A7FCD378-3366-426C-8E7D-F82C9DF4BE24-
+bA890CEFF-A839-4591-9467-923869EC7E44
+
+CLd /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/PDF normal i386
+s419155378.921705
+e419155379.263367
+r1
+xLd
+x/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/PDF
+xnormal
+xi386
+d/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDF.LinkFileList
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/main.o
+d/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFAppDelegate.o
+d/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFViewController.o
+d/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDFView.o
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Link /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/PDF79"Ld DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/PDF normal i386af06ecb2cdfbb841^556d43b3cdfbb841^---0#0#1#--1392"Ld DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/PDF normal i386    cd /Users/b04354/Downloads/PDF-1    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.1.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator -F/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator -filelist /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDF.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework Foundation -framework UIKit -framework CoreGraphics -Xlinker -dependency_info -Xlinker /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/Objects-normal/i386/PDF_dependency_info.dat -o /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/PDF36"BECF9D23-D053-4ED5-B024-55A48F861FD0-
+bA890CEFF-A839-4591-9467-923869EC7E44
+
+CProcessInfoPlistFile /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/Info.plist /Users/b04354/Downloads/PDF-1/PDF-Info.plist
+s419155378.267548
+e419155378.270327
+r1
+xProcessInfoPlistFile
+x/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/Info.plist
+x/Users/b04354/Downloads/PDF-1/PDF-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Process /Users/b04354/Downloads/PDF-1/PDF-Info.plist107"ProcessInfoPlistFile DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/Info.plist PDF-Info.plist008b44b2cdfbb841^cd3c45b2cdfbb841^---0#0#1#-19%DVTDocumentLocation2@60"file://localhost/Users/b04354/Downloads/PDF-1/PDF-Info.plist0000000000000000^698"ProcessInfoPlistFile DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/Info.plist PDF-Info.plist    cd /Users/b04354/Downloads/PDF-1    export PATH="/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.1.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/b04354/Downloads/PDF-1/PDF-Info.plist -genpkginfo /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app/Info.plist36"5C5F1BF4-BAF0-478B-BD64-20D357E5C868-
+bA890CEFF-A839-4591-9467-923869EC7E44
+
+CProcessPCH /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PrecompiledHeaders/PDF_Prefix-fumagnxfgoigdwgxihyzebwnadks/PDF_Prefix.pch.pch PDF_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419155378.322889
+e419155378.853243
+r1
+xProcessPCH
+x/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PrecompiledHeaders/PDF_Prefix-fumagnxfgoigdwgxihyzebwnadks/PDF_Prefix.pch.pch
+xPDF_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/b04354/Downloads/PDF-1/PDF_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Precompile PDF_Prefix.pch207"ProcessPCH DerivedData/PDF/Build/Intermediates/PrecompiledHeaders/PDF_Prefix-fumagnxfgoigdwgxihyzebwnadks/PDF_Prefix.pch.pch PDF_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7ac252b2cdfbb841^b070dab2cdfbb841^---0#0#1#-19%DVTDocumentLocation2@60"file://localhost/Users/b04354/Downloads/PDF-1/PDF_Prefix.pch0000000000000000^3311"ProcessPCH DerivedData/PDF/Build/Intermediates/PrecompiledHeaders/PDF_Prefix-fumagnxfgoigdwgxihyzebwnadks/PDF_Prefix.pch.pch PDF_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/b04354/Downloads/PDF-1    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.1.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5.1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-generated-files.hmap -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-own-target-headers.hmap -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-all-target-headers.hmap -iquote /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/PDF-project-headers.hmap -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode5.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/DerivedSources/i386 -I/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PDF.build/Debug-iphonesimulator/PDF.build/DerivedSources -F/Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PrecompiledHeaders/PDF_Prefix-fumagnxfgoigdwgxihyzebwnadks/PDF_Prefix.pch.dia -MMD -MT dependencies -MF /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PrecompiledHeaders/PDF_Prefix-fumagnxfgoigdwgxihyzebwnadks/PDF_Prefix.pch.d -c /Users/b04354/Downloads/PDF-1/PDF_Prefix.pch -o /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Intermediates/PrecompiledHeaders/PDF_Prefix-fumagnxfgoigdwgxihyzebwnadks/PDF_Prefix.pch.pch36"A71342C1-B530-4DD1-81D0-4B37CE66B242-
+bA890CEFF-A839-4591-9467-923869EC7E44
+
+CProcessPCH /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Index/PrecompiledHeaders/PDF_Prefix-gssdvigdbfalbpdpqcxunaeodgjn_ast/PDF_Prefix.pch.pch PDF_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/b04354/Downloads/PDF-1/DerivedData/PDF/Build/Products/Debug-iphonesimulator/PDF.app
+r0
+

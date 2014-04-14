@@ -1,0 +1,154 @@
+// !$*UTF8*$!
+{
+	0BF9089A13452F7B001171E8 /* PDF */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PDF;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	0BF908A913452F85001171E8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0BF908AA13452F85001171E8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0BF908EF134532E6001171E8 /* PDFView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {960, 1123}}";
+			sepNavSelRange = "{39, 116}";
+			sepNavVisRange = "{0, 156}";
+			sepNavWindowFrame = "{{508, 182}, {1019, 1236}}";
+		};
+	};
+	0BF908F0134532E6001171E8 /* PDFView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {960, 1123}}";
+			sepNavSelRange = "{309, 1}";
+			sepNavVisRange = "{0, 1136}";
+			sepNavWindowFrame = "{{37, 182}, {1019, 1236}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* PDF */ = {
+		activeExec = 0;
+		executables = (
+			0BF9089A13452F7B001171E8 /* PDF */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* PDFViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {838, 765}}";
+			sepNavSelRange = "{306, 9}";
+			sepNavVisRange = "{0, 448}";
+			sepNavWindowFrame = "{{707, 480}, {897, 878}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* PDFViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {960, 3033}}";
+			sepNavSelRange = "{2029, 0}";
+			sepNavVisRange = "{872, 1710}";
+			sepNavWindowFrame = "{{1205, 182}, {1019, 1236}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0BF9089A13452F7B001171E8 /* PDF */;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PDF */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* PDF */,
+		);
+		codeSenseManager = 0BF908AA13452F85001171E8 /* Code sense */;
+		executables = (
+			0BF9089A13452F7B001171E8 /* PDF */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					245,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					205,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323301243;
+			PBXWorkspaceStateSaveDate = 323301243;
+		};
+		sourceControlManager = 0BF908A913452F85001171E8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* PDF-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 156}, {1019, 1236}}";
+		};
+	};
+}

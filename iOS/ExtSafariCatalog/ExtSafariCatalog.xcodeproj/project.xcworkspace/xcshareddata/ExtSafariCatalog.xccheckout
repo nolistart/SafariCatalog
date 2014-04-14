@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4993EEF6-FF4B-474A-B8AB-64FB8CBAA041</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ExtSafariCatalog</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EC1A093A-EEF5-4EDE-9C70-C7A7AEBF1FCA</key>
+		<string>https://github.com/nolistart/SafariCatalog.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS/ExtSafariCatalog/ExtSafariCatalog.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EC1A093A-EEF5-4EDE-9C70-C7A7AEBF1FCA</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nolistart/SafariCatalog.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EC1A093A-EEF5-4EDE-9C70-C7A7AEBF1FCA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EC1A093A-EEF5-4EDE-9C70-C7A7AEBF1FCA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SafariCatalog</string>
+		</dict>
+	</array>
+</dict>
+</plist>
