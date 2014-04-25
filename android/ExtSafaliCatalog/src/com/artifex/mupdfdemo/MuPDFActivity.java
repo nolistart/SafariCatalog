@@ -55,7 +55,7 @@ public class MuPDFActivity extends Activity implements FilePicker.FilePickerSupp
 	private String       mFileName;
 	private MuPDFReaderView mDocView;
 	private View         mButtonsView;
-	private boolean      mButtonsVisible;
+	private boolean      mButtonsVisible = false;
 	private EditText     mPasswordView;
 	private TextView     mFilenameView;
 	private SeekBar      mPageSlider;
@@ -583,7 +583,7 @@ public class MuPDFActivity extends Activity implements FilePicker.FilePickerSupp
 		// Stick the document view and the buttons overlay into a parent view
 		RelativeLayout layout = new RelativeLayout(this);
 		layout.addView(mDocView);
-		layout.addView(mButtonsView);
+		//layout.addView(mButtonsView);
 		setContentView(layout);
 	}
 
