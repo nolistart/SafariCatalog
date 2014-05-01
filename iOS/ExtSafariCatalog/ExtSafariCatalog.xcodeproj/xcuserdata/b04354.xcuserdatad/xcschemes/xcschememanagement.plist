@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>PDF.xcscheme</key>
+		<key>ExtSafariCatalog.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>1D6058900D05DD3D006BFB54</key>
+		<key>29A115ED1912605500942809</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>29A116111912605500942809</key>
 		<dict>
 			<key>primary</key>
 			<true/>
