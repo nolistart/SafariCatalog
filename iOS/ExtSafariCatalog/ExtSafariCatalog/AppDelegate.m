@@ -7,12 +7,20 @@
 //
 
 #import "AppDelegate.h"
+#import "ViewController.h"
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    //UIWindowのサイズをデバイスのディスプレイに合わせて定義する
+    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+    //ViewControllerをRootViewControllerに設定する
+    self.window.rootViewController = [[ViewController alloc] init];
+    
+    //キーウィンドウを作成して描画
+    [self.window makeKeyAndVisible];
     return YES;
 }
 							
