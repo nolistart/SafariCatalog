@@ -10,17 +10,29 @@
 #import "ViewController.h"
 
 @implementation AppDelegate
+{
+    UIWindow *mainWindow;
+    UINavigationController *navigationController;
+    ViewController *viewController;
+}
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
-    //UIWindowのサイズをデバイスのディスプレイに合わせて定義する
-    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    //ViewControllerをRootViewControllerに設定する
-    self.window.rootViewController = [[ViewController alloc] init];
+    mainWindow = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
     
-    //キーウィンドウを作成して描画
-    [self.window makeKeyAndVisible];
+    viewController = [[ViewController alloc] initWithNibName:nil bundle:nil];
+    
+    navigationController = [[UINavigationController alloc] initWithRootViewController:viewController];
+    
+    mainWindow.backgroundColor = [UIColor blackColor];
+    
+    navigationController.navigationBar.barStyle = UIBarStyleBlack;
+    
+    mainWindow.rootViewController = navigationController;
+    
+    [mainWindow makeKeyAndVisible];
+    
     return YES;
 }
 							

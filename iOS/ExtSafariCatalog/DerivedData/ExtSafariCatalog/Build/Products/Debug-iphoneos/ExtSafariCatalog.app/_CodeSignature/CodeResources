@@ -4,13 +4,29 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>MainWindow.nib</key>
+		<key>Assets.car</key>
 		<data>
-		wk6uJMW5aJlouz/NcyTbRx7qV7c=
+		DWbwfOjF+JRTCx5gxisfIz4seeY=
 		</data>
-		<key>PDFViewController.nib</key>
+		<key>Base.lproj/Main_iPad.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		JD99oQ9ymYNq9JhLm2svgJawRB0=
+		KP3Q8TGs+wO+fWrbKKV51EdoUkQ=
+		</data>
+		<key>Base.lproj/Main_iPad.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
+		<data>
+		v4WZlq431ikGTU50pSSnhDEKxNA=
+		</data>
+		<key>Base.lproj/Main_iPhone.storyboardc/UIViewController-vXZ-lx-hvc.nib</key>
+		<data>
+		QLInajnuwd0DW+D8klcAQFQPsEY=
+		</data>
+		<key>Base.lproj/Main_iPhone.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib</key>
+		<data>
+		xmAzS2kYvBHT9vTLauyV1xXvQ68=
+		</data>
+		<key>LaunchImage-700-568h@2x.png</key>
+		<data>
+		V1VdV48TyrImURVWCaose9yz87E=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -18,11 +34,15 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		qYNcPGsiI4ImM5g+oyX3q7bUZBs=
+		hOyfGZHobvyzT14mJPAy+wiiGRs=
+		</data>
+		<key>en.lproj/InfoPlist.strings</key>
+		<data>
+		zmV6UqBSo6r1NOz798vd5O4zTBA=
 		</data>
 		<key>extsafari.pdf</key>
 		<data>
-		9wyAc+Kq/dLBIRfV1TnkkDXuwGs=
+		befX5fvDJfhRaA8eOLfkEIAkfKo=
 		</data>
 	</dict>
 	<key>rules</key>

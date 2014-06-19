@@ -1,2 +1,3 @@
 dependencies: \
-  /Users/b04354/Documents/workspace/app/SafariCatalog/iOS/ExtSafariCatalog/main.m
+  /Users/b04354/Desktop/SafariCatalog/iOS/ExtSafariCatalog/ExtSafariCatalog/main.m \
+  /Users/b04354/Desktop/SafariCatalog/iOS/ExtSafariCatalog/ExtSafariCatalog/AppDelegate.h
