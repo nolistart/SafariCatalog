@@ -13,8 +13,6 @@
 		29A115FC1912605500942809 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 29A115FA1912605500942809 /* InfoPlist.strings */; };
 		29A115FE1912605500942809 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29A115FD1912605500942809 /* main.m */; };
 		29A116021912605500942809 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 29A116011912605500942809 /* AppDelegate.m */; };
-		29A116051912605500942809 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29A116031912605500942809 /* Main_iPhone.storyboard */; };
-		29A116081912605500942809 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29A116061912605500942809 /* Main_iPad.storyboard */; };
 		29A1160B1912605500942809 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 29A1160A1912605500942809 /* ViewController.m */; };
 		29A1160D1912605500942809 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29A1160C1912605500942809 /* Images.xcassets */; };
 		29A116141912605500942809 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29A116131912605500942809 /* XCTest.framework */; };
@@ -69,11 +67,9 @@
 		29A115FF1912605500942809 /* ExtSafariCatalog-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ExtSafariCatalog-Prefix.pch"; sourceTree = "<group>"; };
 		29A116001912605500942809 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		29A116011912605500942809 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		29A116041912605500942809 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
-		29A116071912605500942809 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
 		29A116091912605500942809 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		29A1160A1912605500942809 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		29A1160C1912605500942809 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		29A1160C1912605500942809 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Images.xcassets; sourceTree = "<group>"; };
 		29A116121912605500942809 /* ExtSafariCatalogTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ExtSafariCatalogTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		29A116131912605500942809 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		29A1161B1912605500942809 /* ExtSafariCatalogTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ExtSafariCatalogTests-Info.plist"; sourceTree = "<group>"; };
@@ -192,8 +188,6 @@
 			children = (
 				29A116001912605500942809 /* AppDelegate.h */,
 				29A116011912605500942809 /* AppDelegate.m */,
-				29A116031912605500942809 /* Main_iPhone.storyboard */,
-				29A116061912605500942809 /* Main_iPad.storyboard */,
 				29A116091912605500942809 /* ViewController.h */,
 				29A1160A1912605500942809 /* ViewController.m */,
 				29A1160C1912605500942809 /* Images.xcassets */,
@@ -378,9 +372,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				29A116081912605500942809 /* Main_iPad.storyboard in Resources */,
 				29A1160D1912605500942809 /* Images.xcassets in Resources */,
-				29A116051912605500942809 /* Main_iPhone.storyboard in Resources */,
 				29A115FC1912605500942809 /* InfoPlist.strings in Resources */,
 				29A1162B1912636200942809 /* extsafari.pdf in Resources */,
 			);
@@ -452,22 +444,6 @@
 				29A115FB1912605500942809 /* en */,
 			);
 			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		29A116031912605500942809 /* Main_iPhone.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				29A116041912605500942809 /* Base */,
-			);
-			name = Main_iPhone.storyboard;
-			sourceTree = "<group>";
-		};
-		29A116061912605500942809 /* Main_iPad.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				29A116071912605500942809 /* Base */,
-			);
-			name = Main_iPad.storyboard;
 			sourceTree = "<group>";
 		};
 		29A1161C1912605500942809 /* InfoPlist.strings */ = {
